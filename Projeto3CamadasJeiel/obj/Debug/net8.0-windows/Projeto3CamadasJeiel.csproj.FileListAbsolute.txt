@@ -1,0 +1,16 @@
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.FormCadastro.resources
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.csproj.GenerateResource.cache
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.AssemblyInfoInputs.cache
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.AssemblyInfo.cs
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.csproj.CoreCompileInputs.cache
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\bin\Debug\net8.0-windows\Projeto3CamadasJeiel.exe
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\bin\Debug\net8.0-windows\Projeto3CamadasJeiel.deps.json
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\bin\Debug\net8.0-windows\Projeto3CamadasJeiel.runtimeconfig.json
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\bin\Debug\net8.0-windows\Projeto3CamadasJeiel.dll
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\bin\Debug\net8.0-windows\Projeto3CamadasJeiel.pdb
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.dll
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\refint\Projeto3CamadasJeiel.dll
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.pdb
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\Projeto3CamadasJeiel.genruntimeconfig.cache
+C:\Users\jeiel\source\repos\Projeto3CamadasJeiel\obj\Debug\net8.0-windows\ref\Projeto3CamadasJeiel.dll
